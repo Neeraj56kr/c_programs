@@ -34,4 +34,4 @@ Feel free to explore the programs and use them for learning and reference.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/c-programs-repo.git
+   git clone https://github.com/Neeraj56kr/c_programs.git
